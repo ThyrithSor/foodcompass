@@ -33,13 +33,17 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 28,
-    "versionPublish": "4.3.2"
+    "versionPublish": "4.3.2",
+    "favicon": "@PROJECT_PATH@/assets/images/untitled-100x100.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Food Compass",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
